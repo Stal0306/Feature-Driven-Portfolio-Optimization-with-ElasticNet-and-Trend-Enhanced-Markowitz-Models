@@ -75,7 +75,7 @@ README.md               # You're here!
 
 ---
 
-## 🗃 Dataset
+## Dataset
 
 - 50 stocks including AAPL, MSFT, NVDA, AMZN, TSLA, JPM, etc.
 - Data range: **January 2020 – March 2025** for modeling, April 2024 – March 2025 for testing.
